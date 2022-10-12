@@ -89,6 +89,6 @@
   />
 </p>
 
-<p align="center">
+<b align="center">
 Check out my <a href="https://johnversus.github.io/Profile/" target="_blank"> Profile </a>
-</p>
+</b>
