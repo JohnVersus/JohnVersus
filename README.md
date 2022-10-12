@@ -89,6 +89,6 @@
   />
 </p>
 
-<h3 align="center">
-Check out my <a target="_blank" rel="noopener noreferrer" href="https://johnversus.github.io/Profile/" > Profile </a>
-</h3>
+<p align="center">
+Check out my <a href="https://johnversus.github.io/Profile/" target="_blank"> Profile </a>
+</p>
