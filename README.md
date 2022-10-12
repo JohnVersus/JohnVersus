@@ -81,6 +81,14 @@
   </a>
 </p>
 
+<br/>
+
+<p align="center">
+  <b>
+Check out my <a href="https://johnversus.github.io/Profile/" target="_blank"> Profile </a>
+  </b>
+</p>
+
 <p align="center">
   &nbsp;<img
     align="center"
@@ -89,6 +97,3 @@
   />
 </p>
 
-<b align="center">
-Check out my <a href="https://johnversus.github.io/Profile/" target="_blank"> Profile </a>
-</b>
