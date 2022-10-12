@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Integrating Web3 into Web2 🚀</h3>
 
-<h3 align="center">
-Check out my <a href="https://johnversus.github.io/Profile/"> Profile </a>
-</h3>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -92,3 +88,7 @@ Check out my <a href="https://johnversus.github.io/Profile/"> Profile </a>
     alt="johnversus"
   />
 </p>
+
+<h3 align="center">
+Check out my <a target="_blank" rel="noopener noreferrer" href="https://johnversus.github.io/Profile/" > Profile </a>
+</h3>
