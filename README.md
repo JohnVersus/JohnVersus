@@ -85,7 +85,7 @@
 
 <p align="center">
   <b>
-<!-- Check out my <a href="https://johnversus.github.io/" target="_blank"> Profile </a> -->
+Check out my <a href="https://www.johnversus.dev" target="_blank"> Profile </a>
   </b>
 </p>
 
