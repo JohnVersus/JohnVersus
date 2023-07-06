@@ -92,7 +92,7 @@ Check out my <a href="https://www.johnversus.dev" target="_blank"> Profile </a>
 <p align="center">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=johnversus&show_icons=true&locale=en"
+    src="https://github-readme-stats-5f697wkgd-johnversus.vercel.app/api?username=johnversus&show_icons=true&locale=en"
     alt="johnversus"
   />
 </p>
